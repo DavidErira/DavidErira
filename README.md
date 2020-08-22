@@ -1,4 +1,4 @@
-[![Header](https://github.com/DavidErira/DavidErira/blob/master/CaricaturaPerfilDEEM-min.png)]
+[![Header](https://github.com/DavidErira/DavidErira/blob/master/SaludoGit2.png)]
 
 
 ### Hi there 👋
