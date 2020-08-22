@@ -10,4 +10,4 @@
 - :mailbox: davidestebane1298@gmail.com
 
 
-[![Instagram](https://www.instagram.com/deem.dev/)
+[Instagram](https://www.instagram.com/deem.dev/)
