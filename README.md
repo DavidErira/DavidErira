@@ -32,6 +32,6 @@
 
 
 ##### Algunos proyectos:
-[![Header](https://github.com/DavidErira/DavidErira/blob/master/pro2.png)]
+[![Header](https://github.com/DavidErira/DavidErira/blob/master/pro2.jpg)]
 
 
