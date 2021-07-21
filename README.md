@@ -3,7 +3,7 @@
 
 ### Hola 👋
 
-- 🎓 Ingeniero electrónico de la universidad JAveriana Cali - Colombia
+- 🎓 Ingeniero electrónico de la universidad Javeriana Cali - Colombia
 - :test_tube: Trabajo en proyectos para rehabilitación motora
 - 🪐 Diseño y desarrollo aplicaciones web, Android y IOS 
 - :speech_balloon: Pueden escribirme a mi correo, puedo colaborar con mas proyectos 
